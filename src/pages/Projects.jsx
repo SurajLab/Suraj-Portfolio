@@ -10,7 +10,7 @@ const PROJECTS = [
   ss: '/wanderLust.png',
   tech: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'Mapbox'],
   live: 'https://wanderlust-h5lw.onrender.com',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
+  code: 'https://github.com/SurajLab/Wanderlust'
   },  
   {
   title: '💼 Portfolio Website',
