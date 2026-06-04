@@ -9,8 +9,8 @@ const PROJECTS = [
   desc: 'A property rental management web app featuring user authentication, listing management, reviews, and location visualization.',
   ss: '/wanderLust.png',
   tech: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'Mapbox'],
-  live: 'https://wanderlust-h5lw.onrender.com',
-  code: 'https://github.com/SurajLab/Wanderlust'
+  live: 'https://wanderlust-frontend-7y2e.onrender.com',
+  code: 'https://github.com/SurajLab/Wanderlust-update'
   },  
   {
   title: '💼 Portfolio Website',
