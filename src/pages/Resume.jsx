@@ -56,7 +56,7 @@ export default function Resume() {
               👨‍💻 SURAJ K. AGRAWAL
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              3rd Year B.C.A — Computer Application | B.C.R.A.P.C, MAKAUT
+              Final Year B.C.A — Computer Application | B.C.R.A.P.C, MAKAUT
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍  Durgapur, West Bengal
@@ -80,7 +80,7 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-             3rd-year BCA student specializing in full-stack development,
+             Final year BCA student specializing in full-stack development,
               skilled in MERN stack, JavaScript, PHP, Laravel, Java, Python, 
               and tools like Git, Docker, Postman, MySQL, Render.
                Passionate about impactful real-world projects.
@@ -107,7 +107,7 @@ export default function Resume() {
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
             <li>
               <strong>BCA in Computer Applications</strong> — BCRAPC
-              ( MAKAUT ), 2023–2026 <br />
+              ( MAKAUT ), 2023–2027 <br />
               <span style={{ color: "#aaa" }}>GPA: 7.6</span>
             </li>
             <li style={{ marginTop: 8 }}>
