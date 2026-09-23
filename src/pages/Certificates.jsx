@@ -18,6 +18,13 @@ const CERTS = {
       img: "/certs/training.jpg",
       link: "/certs/training.jpg",
     },
+    {
+      title: "Data Analytics Job Simulation",
+      org: "Deloitte Australia",
+      date: "2026",
+      img: "/certs/Deloitte.jpg",
+      link: "/certs/Deloitte.jpg",
+    },
   
   ],
   other: [
